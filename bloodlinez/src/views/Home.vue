@@ -1,5 +1,5 @@
 <template>
-  <section class="container">
+  <section class="container home__wrapper">
     <h2>Hola esta es la home</h2>
     <div class="home">
       <img alt="Vue logo" src="../assets/logo.png">
