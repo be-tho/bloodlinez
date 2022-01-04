@@ -1,8 +1,8 @@
 <template>
-<div>
+<section class="container">
   <h1>Rules</h1>
   <p>Rules in the site</p>
-</div>
+</section>
 </template>
 
 <script>

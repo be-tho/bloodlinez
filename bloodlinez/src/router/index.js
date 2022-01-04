@@ -2,6 +2,8 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Rules from "../views/Rules";
+import Views from "../views/Views";
+import Videos from "../views/Videos";
 
 Vue.use(VueRouter)
 
@@ -15,6 +17,16 @@ const routes = [
     path: '/rules',
     name: 'Rules',
     component: Rules
+  },
+  {
+    path: '/views',
+    name: 'Views',
+    component: Views
+  },
+  {
+    path: '/videos',
+    name: 'Videos',
+    component: Videos
   },
   {
     path: '/about',
