@@ -1,0 +1,14 @@
+/* Reset style */
+@import "variables/resetStyle.css";
+@import "variables/variables.css";
+
+/* Views */
+@import "views/home.css";
+@import "views/rules.css";
+
+/* Components */
+@import "component/nav.css";
+@import "component/footer.css";
+
+/* Wrapper */
+@import "wrapper/container.css";

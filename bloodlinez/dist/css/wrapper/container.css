@@ -1,0 +1,17 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.container-fluid{
+    width: 100%;
+    margin: 0 auto;
+}
+.mb-0{
+    margin-bottom: 0.5rem;
+}
+.mb-1{
+    margin-bottom: 1rem;
+}
+.mb-2{
+    margin-bottom: 2rem;
+}

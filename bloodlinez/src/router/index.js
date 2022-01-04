@@ -16,7 +16,7 @@ const routes = [
   {
     path: '/rules',
     name: 'Rules',
-    component: Rules
+    component: Rules,
   },
   {
     path: '/views',
